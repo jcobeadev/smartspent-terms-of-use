@@ -1,0 +1,1 @@
+# smartspent-terms-of-use
