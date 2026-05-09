@@ -1,19 +1,57 @@
 # Terms of Use
 
-Simple terms for using SmartSpent.
+Effective date: May 9, 2026
 
-SmartSpent is provided as a personal finance and expense tracking tool for individual use. You are responsible for how you use the app and for keeping your device and backups secure.
+These Terms of Use govern your use of SmartSpent.
 
-SmartSpent stores your wallets, accounts, and transactions locally on your device by default. No financial data leaves your device unless you explicitly enable a feature that transfers it.
+## 1. App Purpose
 
-SmartSpent is available as a one-time paid purchase on the App Store. Once purchased, you have access to all current features of the app on your personal devices. Billing, refunds, and purchase policies are handled by Apple under Apple’s own terms.
+SmartSpent is a personal finance and expense tracking app for individual use.  
+You are responsible for how you use the app and for safeguarding your device, account access, and backups.
 
-SmartSpent offers an optional iCloud Sync feature that uses Apple’s CloudKit to keep your data in sync across your devices. This feature is optional and is not required to use the app. iCloud Sync requires a valid iCloud account and internet connectivity. Billing, storage limits, and iCloud platform policies are governed by Apple under Apple’s own terms.
+## 2. Purchase
 
-SmartSpent may offer optional AI Insights powered by Apple Intelligence. This feature runs entirely on your device using Apple’s on-device language models and does not require internet connectivity or a third-party AI service. AI Insights requires a compatible device and iOS version that supports Apple Intelligence. We may change, limit, or remove this feature if needed for technical, legal, or product reasons.
+SmartSpent is offered as a one-time paid purchase on the App Store.  
+Billing, refunds, and purchase-related policies are handled by Apple under Apple’s own terms and policies.
 
-When you use AI Insights, outputs are generated automatically and may sometimes be inaccurate, incomplete, or unsuitable for your situation. AI Insights are provided for informational purposes only. You remain responsible for reviewing AI-generated content before relying on it for any financial decision.
+## 3. Data Storage and Transfers
 
-SmartSpent is provided on an “as is” basis without guarantees of uninterrupted availability, compatibility with every device configuration, or fitness for any particular financial outcome.
+SmartSpent stores your wallets, accounts, and transactions locally on your device by default.
 
-These terms may be updated from time to time, and this page will reflect the latest version.
+Data is transferred off-device only when you explicitly use a transfer feature, such as:
+- Optional iCloud Sync (Apple iCloud/CloudKit), or
+- Export/share actions you initiate (for example, CSV or JSON export).
+
+## 4. Optional iCloud Sync
+
+iCloud Sync is optional and not required to use SmartSpent.  
+If enabled, data is synchronized through Apple’s iCloud/CloudKit services. iCloud account access and internet connectivity are required.  
+Apple governs iCloud storage limits, billing, availability, and related policies.
+
+## 5. Optional AI Insights
+
+SmartSpent may offer optional AI Insights powered by Apple Intelligence.  
+When available, AI Insights run on-device and can be turned off in Settings.
+
+AI-generated outputs may be inaccurate, incomplete, or unsuitable for your circumstances.  
+AI Insights are provided for informational purposes only and are not financial, legal, tax, or investment advice.  
+You remain solely responsible for reviewing outputs and making your own financial decisions.
+
+## 6. No Warranty
+
+SmartSpent is provided on an “as is” and “as available” basis, without warranties of any kind, express or implied, including fitness for a particular purpose, non-infringement, or uninterrupted availability.
+
+## 7. Limitation of Liability
+
+To the maximum extent permitted by law, SmartSpent and its developer are not liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of profits, revenue, data, goodwill, or other intangible losses arising from your use of the app.
+
+## 8. Changes to Features or Terms
+
+We may modify, suspend, or discontinue features (including optional features like iCloud Sync or AI Insights) at any time for technical, legal, security, or product reasons.
+
+We may also update these Terms from time to time.  
+Continued use of SmartSpent after updates means you accept the revised Terms.
+
+## 9. Contact
+
+If you have questions about these Terms, contact support through the app’s listed support channel.
