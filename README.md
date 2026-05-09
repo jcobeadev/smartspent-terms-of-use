@@ -1,38 +1,19 @@
-# Terms
+# Terms of Use
 
-Basic terms for using SmartSpent.
+Simple terms for using SmartSpent.
 
-SmartSpent is a personal budgeting and expense management app intended for
-individual use. You are responsible for your use of the app, including
-protecting your device, account access, and backups.
+SmartSpent is provided as a personal finance and expense tracking tool for individual use. You are responsible for how you use the app and for keeping your device and backups secure.
 
-By default, SmartSpent keeps your wallets, accounts, and transaction data
-stored locally on your device. Your financial information will not leave your
-device unless you choose to enable a feature that shares or syncs it.
+SmartSpent stores your wallets, accounts, and transactions locally on your device by default. No financial data leaves your device unless you explicitly enable a feature that transfers it.
 
-SmartSpent includes an optional iCloud Sync feature powered by Apple CloudKit,
-allowing your data to stay updated across your Apple devices. Using this
-feature is completely optional. It requires an active iCloud account and an
-internet connection. Any iCloud storage limits, billing, or platform-related
-policies are managed by Apple under their own terms and conditions.
+SmartSpent is available as a one-time paid purchase on the App Store. Once purchased, you have access to all current features of the app on your personal devices. Billing, refunds, and purchase policies are handled by Apple under Apple’s own terms.
 
-SmartSpent may also provide optional AI Insights through Apple Intelligence.
-This functionality operates fully on-device using Apple’s built-in language
-models and does not send your data to external AI providers or require an
-internet connection. AI Insights is only available on supported Apple devices
-and compatible iOS versions. We reserve the right to modify, restrict, or
-discontinue this feature when necessary for technical, legal, or operational
-reasons.
+SmartSpent offers an optional iCloud Sync feature that uses Apple’s CloudKit to keep your data in sync across your devices. This feature is optional and is not required to use the app. iCloud Sync requires a valid iCloud account and internet connectivity. Billing, storage limits, and iCloud platform policies are governed by Apple under Apple’s own terms.
 
-AI-generated insights are created automatically and may occasionally contain
-errors, incomplete information, or recommendations that may not fit your
-specific circumstances. These insights are intended for informational use only,
-and you are responsible for evaluating any AI-generated content before making
-financial decisions based on it.
+SmartSpent may offer optional AI Insights powered by Apple Intelligence. This feature runs entirely on your device using Apple’s on-device language models and does not require internet connectivity or a third-party AI service. AI Insights requires a compatible device and iOS version that supports Apple Intelligence. We may change, limit, or remove this feature if needed for technical, legal, or product reasons.
 
-SmartSpent is provided “as is” without warranties or guarantees regarding
-continuous availability, compatibility with all devices, or any specific
-financial results.
+When you use AI Insights, outputs are generated automatically and may sometimes be inaccurate, incomplete, or unsuitable for your situation. AI Insights are provided for informational purposes only. You remain responsible for reviewing AI-generated content before relying on it for any financial decision.
 
-These Terms may be revised periodically, and the most current version will
-always be available on this page.
+SmartSpent is provided on an “as is” basis without guarantees of uninterrupted availability, compatibility with every device configuration, or fitness for any particular financial outcome.
+
+These terms may be updated from time to time, and this page will reflect the latest version.
